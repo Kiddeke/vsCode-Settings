@@ -1,0 +1,34 @@
+{
+    // Set the color theme to Monokai
+    "workbench.colorTheme": "Monokai",
+
+    // HTML formatting using Prettier
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // CSS formatting using Prettier
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // Enable auto-fetch for Git
+    "git.autofetch": true,
+
+    // Disable the minimap in the editor
+    "editor.minimap.enabled": false,
+
+    // Settings for Live Server extension
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    // Default code formatting using Prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // Python-specific settings for format-on-type
+    "[python]": {
+        "editor.formatOnType": true
+    },
+
+    // Set the PHP executable path for validation
+    "php.validate.executablePath": "your_unit:/xampp/php/php.exe"
+}
