@@ -1,22 +1,60 @@
-BazelBuild.vscode-bazel
-cduruk.thrift
-dracula-theme.theme-dracula
-esbenp.prettier-vscode
-formulahendry.vscode-mysql
-github.vscode-github-actions
-hwencc.html-tag-wrapper
-monokai.theme-monokai-pro-vscode
-ms-python.python
-ms-python.vscode-pylance
-ms-toolsai.jupyter
-ms-toolsai.jupyter-keymap
-ms-toolsai.jupyter-renderers
-ms-toolsai.vscode-jupyter-cell-tags
-ms-toolsai.vscode-jupyter-slideshow
-qwtel.sqlite-viewer
-ritwickdey.LiveServer
-RobbOwen.synthwave-vscode
-SatoshiYamamoto.vscode-end-of-line
-scala-lang.scala
-sdras.night-owl
-xdebug.php-debug
+{
+  "extensions": [
+    // Bazel and Build Tools
+    "BazelBuild.vscode-bazel",
+
+    // Apache Thrift
+    "cduruk.thrift",
+
+    // Dracula Theme
+    "dracula-theme.theme-dracula",
+
+    // Code Formatting
+    "esbenp.prettier-vscode",
+
+    // MySQL Support
+    "formulahendry.vscode-mysql",
+
+    // GitHub Actions
+    "github.vscode-github-actions",
+
+    // HTML Tag Wrapper
+    "hwencc.html-tag-wrapper",
+
+    // Monokai Theme
+    "monokai.theme-monokai-pro-vscode",
+
+    // Python Language Support
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+
+    // Jupyter Notebooks
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+
+    // SQLite Viewer
+    "qwtel.sqlite-viewer",
+
+    // Live Server
+    "ritwickdey.LiveServer",
+
+    // Synthwave Theme
+    "RobbOwen.synthwave-vscode",
+
+    // End of Line Settings
+    "SatoshiYamamoto.vscode-end-of-line",
+
+    // Scala Language Support
+    "scala-lang.scala",
+
+    // Night Owl Theme
+    "sdras.night-owl",
+
+    // PHP Debugging
+    "xdebug.php-debug"
+  ]
+}
+
